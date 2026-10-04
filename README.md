@@ -10,4 +10,5 @@ The 'Initial CAD Training.docx' file serves as an introductory course that I adv
 The 'FRC Systems.docx' file serves as table of content for all the systems that will be covered in this repository and includes the serial number and the 'color' (personal assesment of difficulty level) of each system. \
 Inside each folder you will find 3 types of files: the Intro.md opening the system topic, presentations on each system "arctype" and the "Notes and Theoretical Background" file that corresponds to each presentation.
 
+Donations help me work more on this project, if you find this project helpfull please consider donating. \
 For inquiries and collaborations feel free to send a DM or mail at: dvir.chen42@gmail.com
