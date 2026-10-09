@@ -2,13 +2,13 @@
 
 Welcome everyone! My name is Dvir I'm an alumni of team 9740 CANBUS and a mentor of teams 2679 Atlantis and 10935 Krono from Israel.
 
-This repository is a collection of all the materials I have created since I began mentoring 2679 and 10935. I decided to share them online so they could be utilized by other teams worldwide. My goal is to help both my teams and the global community elevate their CAD skills and knowledge. 
+This repository is a collection of all the materials I have created since I began mentoring 2679 and 10935. I decided to share them online so they could be utilized by other teams worldwide. My goal is to help both my teams and the global community elevate their CAD skills and knowledge. \
+DISCLAIMER: This repository and everything in it is still a work in progress. The vast majority of material hasn't yet been made and the files existing in the repository might change. Untill this line is deleted take this disclaimer as active.
 
 This repository consists of seven parts: 'Initial CAD Training' and six folders containing presentations organized by system:
 
-The 'Initial CAD Training.docx' file serves as an introductory course that I advise the entire design team should master before tackling specific systems. The goal of this file is to guide the team from 'what is CAD' to a level where they can confidently design complete systems on their own. \
-The 'FRC Systems.docx' file serves as table of content for all the systems that will be covered in this repository and includes the serial number and the 'color' (personal assesment of difficulty level) of each system. \
+The 'Initial CAD Training.pdf' file serves as an introductory course that I advise the entire design team should master before tackling specific systems. The goal of this file is to guide the team from 'what is CAD' to a level where they can confidently design complete systems on their own. \
+The 'FRC Systems.pdf' file serves as table of content for all the systems that will be covered in this repository and includes the serial number and the 'color' (personal assesment of difficulty level) of each system. \
 Inside each folder you will find 3 types of files: the Intro.md opening the system topic, presentations on each system "arctype" and the "Notes and Theoretical Background" file that corresponds to each presentation.
 
-Donations help me work more on this project, if you find this project helpfull please consider donating. \
 For inquiries and collaborations feel free to send a DM or mail at: dvir.chen42@gmail.com
